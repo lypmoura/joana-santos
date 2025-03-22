@@ -41,4 +41,10 @@ span {
     font-size: 24px;
     font-weight: 600;
     font-family: "Montserrat", sans-serif;
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.about-button:hover {
+    background-color: #1ea1be;
 }
